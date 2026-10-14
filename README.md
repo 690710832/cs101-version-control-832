@@ -9,9 +9,7 @@
 - Learn Git and GitHub
 - Build a personal warebsite
 
-## Technology Interests
-- Artificial Intelligence
-- Game Development
+
 
 ## Skills
 - Problem solving
