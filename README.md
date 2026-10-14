@@ -1,5 +1,5 @@
 # My CS Profile
 
 ## About Me
-- Name: Somchai
+- Name: Natdanai Phupueng
 - Major: Computer Science
